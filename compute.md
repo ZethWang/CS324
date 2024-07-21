@@ -1,3 +1,4 @@
+## [计算性能博客](https://blog.csdn.net/wxc971231/article/details/135434478)
 你的问题很有意思。下面详细解释一下FMA（Fused Multiply-Add）操作的使用如何影响矩阵乘法的浮点运算量（FLOPs）计算，以及为什么使用FMA操作实际上是一种优化。
 
 ### FMA（Fused Multiply-Add）操作简介
